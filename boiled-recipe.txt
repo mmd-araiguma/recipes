@@ -1,0 +1,8 @@
+Ingredients:
+	some eatable things
+	An appropriate amount of water
+
+Directions:
+	put water in a pot on the fire
+	put foods in it
+	wait a moment
